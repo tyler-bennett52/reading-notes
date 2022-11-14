@@ -1,4 +1,4 @@
-<body style="background-color:#354f52>
+<body style="background-color:#354f52;>
 # reading-notes
 Summary of recent readings
 
