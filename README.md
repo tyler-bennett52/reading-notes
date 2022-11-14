@@ -18,3 +18,5 @@ Believing it was a pre-determined ability is a **Fixed Mindset**, while believin
 3. Enjoy the little wins because it means the process is working and that I must KEEP GOING
 
 You can check out more of my work (lol not really yet) at [Github](https://github.com/tyler-bennett52)
+--- --- ---
+[Class 1 Notes](https://tyler-bennett52.github.io/reading-notes/class1)
