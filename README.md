@@ -13,4 +13,4 @@ Believing it was a pre-determined ability is a **Fixed Mindset**, while believin
 >2.
 >3.
 
-You can check out more of my work (lol not really yet) at https://tyler-bennett52.github.io/reading-notes/
+You can check out more of my work (lol not really yet) at [my Github]https:https://github.com/tyler-bennett52]
