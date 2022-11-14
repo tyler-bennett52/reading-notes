@@ -16,4 +16,4 @@ Believing it was a pre-determined ability is a **Fixed Mindset**, while believin
 2. Measure time improving, not just results
 3. Enjoy the successes because it means the process is working and that I must KEEP GOING
 
-You can check out more of my work (lol not really yet) at [my Github](https://github.com/tyler-bennett52)
+You can check out more of my work (lol not really yet) at [Github](https://github.com/tyler-bennett52)
