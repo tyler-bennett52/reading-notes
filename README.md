@@ -7,10 +7,12 @@ Summary of recent readings
 Was Jack Nicklaus one of the great golfers of his time because of a god-given ability, or was it a product of many *hundreds of hours of practice* in the wind and rain?
 Believing it was a pre-determined ability is a **Fixed Mindset**, while believing he created those abilities through hard work and repetition is a **Growth Mindset**.
 
+![alt text](https://images.unsplash.com/photo-1591491640784-3232eb748d4b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80 "Not Jack Nicklaus")
+
 
 ### 3 ways I stay in a growth mindset:
->1.
->2.
->3.
+1. Embrace failure, as it usually precedes progress
+2. Measure time improving, not just results
+3. Enjoy the successes because it means the process is working and that I must KEEP GOING
 
-You can check out more of my work (lol not really yet) at [my Github]https:https://github.com/tyler-bennett52]
+You can check out more of my work (lol not really yet) at [my Github](https://github.com/tyler-bennett52)
