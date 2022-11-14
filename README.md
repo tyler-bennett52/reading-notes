@@ -14,6 +14,6 @@ Believing it was a pre-determined ability is a **Fixed Mindset**, while believin
 ### 3 ways I stay in a growth mindset:
 1. Embrace failure, as it usually precedes progress
 2. Measure time improving, not just results
-3. Enjoy the successes because it means the process is working and that I must KEEP GOING
+3. Enjoy the little wins because it means the process is working and that I must KEEP GOING
 
 You can check out more of my work (lol not really yet) at [Github](https://github.com/tyler-bennett52)
