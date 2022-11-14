@@ -1,3 +1,4 @@
+<body style="background-color:#354f52>
 # reading-notes
 Summary of recent readings
 
@@ -16,3 +17,4 @@ Believing it was a pre-determined ability is a **Fixed Mindset**, while believin
 3. Enjoy the successes because it means the process is working and that I must KEEP GOING
 
 You can check out more of my work (lol not really yet) at [my Github](https://github.com/tyler-bennett52)
+</body>
