@@ -5,13 +5,19 @@ If anyone was unconvinced that navigating the command terminal was extremely imp
 ## Cheat Sheet 
 ---
 (~) The "take me home: command.
+
 (ls) the "show me what you got" command
+
 (ls -a) the "what are you hiding" command
+
 (cd) the "go there" command
+
 (pwd) the "where am I?" command
+
 (..) the "take me back" command
 
 When possible avoid naming files with spaces in the name
+
 CasE SenSITivity MAtTErS and typos will ruin your day
 
 ## Things I want to know more about
