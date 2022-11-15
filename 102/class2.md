@@ -33,4 +33,4 @@ I'm curious how much of a developers work is done in the terminal. Is it an anci
 
 ---
 ---
-[Home](https://tyler-bennett52.github.io/reading-notes) |[Class 1](https://tyler-bennett52.github.io/reading-notes/102/class1) |[Class 2](https://tyler-bennett52.github.io/reading-notes/102/class2) |[Class 3](https://tyler-bennett52.github.io/reading-notes/102/class3) |[Class 4](https://tyler-bennett52.github.io/reading-notes/102/class4) |[Class 5](https://tyler-bennett52.github.io/reading-notes/102/class5) |[Class 6](https://tyler-bennett52.github.io/reading-notes/102/class6) |[Class 7](https://tyler-bennett52.github.io/reading-notes/102/class7) |[Class 8](https://tyler-bennett52.github.io/reading-notes/102/class8) |
+[Home](reading-notes/README.md)|[Class 1](102/class1.md) |[Class 2](102/class2) |[Class 3](102/class3) |[Class 4](102/class4) |[Class 5](102/class5) |[Class 6](102/class6) |[Class 7](102/class7) |[Class 8](102/class8) |
