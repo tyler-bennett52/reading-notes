@@ -1,5 +1,7 @@
 # Class 3 Notes - Revisions and the Cloud
+
 ---
 ---
 The value of version control and keeping backups of your work is obvious to me, as I make so many mistakes. De-risking code changes with version control seems to allow for a more adventurous mindset, and hopefully creates an environment where taking initiative on a project doesn't mean permanently altering other's work.
 
+[Home](https://tyler-bennett52.github.io/reading-notes) |[Class 1](https://tyler-bennett52.github.io/reading-notes/102/class1) |[Class 2](https://tyler-bennett52.github.io/reading-notes/102/class2) |[Class 3](https://tyler-bennett52.github.io/reading-notes/102/class3) |[Class 4](https://tyler-bennett52.github.io/reading-notes/102/class4) |[Class 5](https://tyler-bennett52.github.io/reading-notes/102/class5) |[Class 6](https://tyler-bennett52.github.io/reading-notes/102/class6) |[Class 7](https://tyler-bennett52.github.io/reading-notes/102/class7) |[Class 8](https://tyler-bennett52.github.io/reading-notes/102/class8) |
