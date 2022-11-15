@@ -1,8 +1,12 @@
 # Class 2 Notes - The Coder's Computer
 
+## Text vs. Code Editors
+---
+You're almost certainly familiar with a text editor, as they are extremely basic programs that come pre-installed on most (all?) computers. They are simple but don't provide nice features like code completion, visual cues for typos or syntax errors. If you're looking for features like that you should use a code editor, programs designed to make writing code much easier. They lessen the need for you to either memorize syntax or constantly reference documentation by providing pop-up tips right next to your cursor. VSCode seems to be extremely popular and is a perfect example of a code editor, although there are many others. 
+
 If anyone was unconvinced that navigating the command terminal was extremely important, after "InstallFest" surely they have seen the light. Having TA's hold my hand through simple processes like changing directories or installing programs via the console definitely showed me that this is worth investing some time into. 
 
-## Cheat Sheet 
+### Cheat Sheet 
 ---
 (~) The "take me home: command.
 
