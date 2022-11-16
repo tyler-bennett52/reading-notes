@@ -20,5 +20,6 @@ How concerned should I be with structuring my content in HTML, knowing that I wi
 How to decide between a class attribute and an ID attribute or both?
 
 ---
+
 [Home](/reading-notes)|[Class 1](class1) |[Class 2](class2) |[Class 3](class3) |[Class 4](class4) |[Class 5](class5) |[Class 6](class6) |[Class 7](class7) |[Class 8](class8) |
 

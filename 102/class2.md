@@ -32,5 +32,6 @@ CasE SenSITivity MAtTErS and typos will ruin your day
 I'm curious how much of a developers work is done in the terminal. Is it an ancillary tool used when needed or is it a staple that will dominate your time? Why would anyone use the terminal to do simple things like make a folder/file when the GUI is so familiar and user-friendly? How much more can I do with the terminal?
 
 ---
+
 [Home](/reading-notes)|[Class 1](class1) |[Class 2](class2) |[Class 3](class3) |[Class 4](class4) |[Class 5](class5) |[Class 6](class6) |[Class 7](class7) |[Class 8](class8) |
 
