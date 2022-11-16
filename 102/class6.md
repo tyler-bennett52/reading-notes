@@ -5,17 +5,17 @@
 
 Javascript makes our pages more interactive, interesting and functional. It allows us collect information, manipulate it, and present something useful to the end users. Creating a variable is done with the commmands `let`  `const` and `var`. Variable should not start with a number, contain spaces, and generally should use camelCase when using Javascript. An example of declaring a variable is below.
 
-        `let itBeKnown = "I am very cool";`
+        let itBeKnown = "I am very cool";
 
-        `const able = "Bob";`
+        const able = "Bob";
 
-        `var iety = "is the spice of life";`
+        var iety = "is the spice of life";
 
 But other than making bad jokes we can also use variable to collect data directly from users. We can use the `prompt()` command to solicit a string and `confirm` to get a return of either `true` or `false`. Below is an example of some variables we might set using those commands.
 
-        `const name = prompt("Hi! What's your name?");`
+        const name = prompt("Hi! What's your name?");
 
-        `const isAllowedToDrink = confirm("Are you at least 21 years old?")
+        const isAllowedToDrink = confirm("Are you at least 21 years old?");
 
 ## Things I want to know more about
 
