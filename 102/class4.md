@@ -13,4 +13,11 @@ Wireframes are like a blueprint for a webpage. Before you start building you sho
  ---
  If a wireframe is a blueprint then HTML elements are you building blocks. HTML is used to create the general structure of a webpage, without much styling or functionality that will be added at a later stage (like how you must lay a foundation before wiring a home for power).
 
+## Things I want to know more about
+
+How concerned should I be with structuring my content in HTML, knowing that I will be using CSS to restructure it?
+
+How to decide between a class attribute and an ID attribute or both?
+
+---
 [Home](https://tyler-bennett52.github.io/reading-notes/)|[Class 1](102/class1.md) |[Class 2](102/class2) |[Class 3](/class3) |[Class 4](102/class4) |[Class 5](102/class5) |[Class 6](102/class6) |[Class 7](102/class7) |[Class 8](102/class8) |
