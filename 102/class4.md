@@ -1,4 +1,4 @@
-# Class 4 Notes = Wireframes and HTML
+# Class 4 Notes - Wireframes and HTML
 
 ---
 ---
