@@ -23,3 +23,9 @@
 5 - A conditional could be used to check for invalid input types in a password field and remind the user to read the instructions
 
 6 - Loops could be useful to prompt a user until they give you a valid input
+
+## Things I want to know more about
+
+Could an HTML table be replaced with a JS multi-dimensional array?
+
+Can you store functions in arrays like you can methods in an object?
