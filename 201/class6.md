@@ -26,4 +26,4 @@ Is everything in JS an object?
 
 Is all the world an object? Am I an object? What are my properties? Methods?
 
-Is there ever an appropiate time to use the window object or is that just for behind the scenes stuff:
+Is there ever an appropiate time to use the window object or is that just for behind the scenes stuff?
