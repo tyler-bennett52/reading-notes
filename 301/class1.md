@@ -1,54 +1,17 @@
 # Class 1 Notes
 
- Poetic Masterpiece
-    - by Tyler Bennett
+1 -  A component is a block of reusable HTML/DOM elements with a specific functionality. The reading also called it modular, portable, replaceable, reusable, and a software object.
 
-    It is sometimes said that roses are red,
+2 -  The reading indicated that components are: reusable, replaceable, not-context specific, extensible, encapsulated, independent.
 
-    and violets are blue.
+3 - The reading listed these as advantages: Ease of deployment, Reduced Cost, Ease of Development, Reusable, Modification of technical complexity, Reliability, System maintenance and evolution, Independence.
 
-    HTTP requests ask something of the web,
+1 - Props is short for properties, because who wants to type/say that every 30 seconds.
 
-    then bring it back to you.
+2 - Props are passed as an attribute in JSX, passed from one component to another, and then rendered however you decide to use them.
 
-Now back to business. 
-
-2 - HTML is read first and CSS/JS tags are read from there. 
-
-3 - You can either go to Unsplash or Google Images(make sure to change your licensing settings when searching)
-
-4 - 'Strings look like this' but numbers look this 1776
-
-5 - Variables are containers used to store values
-
-1 - An HTML attribute is additional info about an element. An id or class tag is a good example of this.
-
-2 - HTML tags look like the following `<opening-tag attribute='something in here'> CONTENT </closing-tag>`
-
-3 - The only differences between section and article are semantic ones. Typically though, an article is content that isn't dependent on other items on the page, while the section tag is used to separate related content. 
-
-4 - Typical html elements are as follows: header, nav, main, article, section, aside, footer
-
-5 - Meta data is also scanned by search engines, so including a description can boost your search ranking
-
-6 - Here is an example of how a meta tag looks `<meta name='description' content='reading notes for day 1 of 201-d93'`>
-
-1 - The first step *should be* project ideation
-
-2 - The most important question is "What do I want to accomplish"
-
-1 - You should use h1 for the header instead of a span because spans will be used all over a page and not just once at the top level. Having your header behave like the rest of your spans may cause headaches in CSS/JS 
-
-2 - Semantic tags are great because they help others (and yourself) better understand your markup at a glance. 
-
-1 - Two things that require JavaScript are click events and prompts
-
-2 - You can add Javascript to HTML using the `<script>` tag
+3 - Props are uni-directional going from parent to children.
 
 ## Things I want to know more about
 
-Is poetry my true calling?
-
-How much time should be spent on project ideation?
-
-If you're not concerned with SEO rankings should you still use descriptive meta tags?
+The article lists the advantages of component-based architecture, are there any notable disadvantages?
