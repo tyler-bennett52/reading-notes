@@ -1,31 +1,34 @@
-# Class 3 Notes - Where There's a Will There's Array
+# Class 3 Notes
 
-1 - Unordered lists should be used for things like navlinks where they don't have precedence over each other
+1 - Map returns another array, with one item for each item in the original.
 
-2 - Bullet style can be changed with the list-style-type property in CSS
+2 - To turn the items of an array into JSX use `.map(item => <div> {item} </div>)`.
 
-3 - Ordered lists should be used for ranking/first-this-then-that styles and unordered should be used for less structured, but still related content
+3 - Every item needs a unique key
 
-4 - You can change the list items in an ol to roman numerals or alphabetical
+4 - The purpose of a key is related to the purpose of a component. Components are meant to be used again and again, so we pass a unique key so we have a way to reference a specific instance of a component. 
 
-1 - Imagine you are a king/queen defending your castle. You station some troops outside your castle walls to protect the gate. These troops are the Margin Brigade. Inside the castle walls we station additional troops to shield our dear leader from any harm. This unit is the Padding Brigade. Our ruler in this case would be our content and the castle walls would be the border
+1 - The spread operator is ...cool. It's for taking the contents of an iterable and displaying them again, but outside of the iterable. For example Math.max wants a bunch of arguements, not one array. So you could use `Math.max(...numarray)`.
 
-2 - Box Model: 1. Margin 2. Border 3. Padding 4. Content
+2 - Here is the list of uses for the spread operator from the article. Copying an array
+    Concatenating or combining arrays
+    Using Math functions
+    Using an array as arguments
+    Adding an item to a list
+    Adding to state in React
+    Combining objects
+    Converting NodeList to an array
 
-1 - You can store all sorts of stuff in an array. Simple stuff like numbers and strings, but also you can nest arrays in arrays in arrays and then inside of that array put an object that stores strings and functions and bools. Anyway the point is you can do almost anything
+3 - Combinging arrays with the spread operator would look like `[...arr1, ...arr2]`.
 
-2 - Totally valid and cool array. To access the values in a nested array you can stack brackets like this `people[1][0]`
+4 - You could add an item to an array in a similar fashion like this `[...arr, newitem]`.
 
-3 - Shorthand operators: 1. ++ increment by one 2. -- decrement by one 3. += increment by set value 4. -= decrement by set value 5. *= mulitply by set value
+5 - Combining objects is very similar to array. It looks like this `{...obj1, ...obj2}
 
-4 - The listed expression results in a NaN type because it does math stuff across mulitple data types which is like not super possible
+1 - First thing he does to pass the function is in the child set `increment = {this.increment}
 
-5 - A conditional could be used to check for invalid input types in a password field and remind the user to read the instructions
+2 - The increment function changes hasChanged to true and slaps an update badge/span on the component, as well as updating the count.
 
-6 - Loops could be useful to prompt a user until they give you a valid input
+3 - Passing a function is as easy as including it in the props
 
-## Things I want to know more about
-
-Could an HTML table be replaced with a JS multi-dimensional array?
-
-Can you store functions in arrays like you can methods in an object?
+4 - The function has to be called via props like this `this.props.increment()`
