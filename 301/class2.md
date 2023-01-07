@@ -1,37 +1,28 @@
 # Class 2 Notes
 
-1 - Semantic HTML makes it easier to read and work with markup by explicitly stating what each element is for
+1 - Based on the diagram the render portion happens first.
 
-2 - There are 6 heading levels in HTML
+2 - The first thing that happens is your constructor function executes. 
 
-3 - Superscript can be used for writing exponents and subscript can be used for chemical notation
+3 - componentDidMount, render, constructor, componentWillUnmount, React Updates
+1. constructor
+2. render
+3. React updates
+4. ComponentDidMount
+5. ComponentWillUnmount
 
-4 - Pass the "title" attribute to clarify abbr tags
+4 - The article says this about ComponentDidMount: This method is invoked immediately after a component is mounted. If you need to load anything using a network request or initialize the DOM.
 
-1 - CSS can be applied inline, internally, or with an external file
+1 - Props should be data you want your component to be initialized with, like a Title.
 
-2 - Inline styles can cause problems because they are the highest specificity and will override everything else
+2 - Props are external to the component and updates must come from outside the component as well, while state is internal to the component and allows the component to update itself.
 
-3 - Selector = h2, components = lines inside of curly braces, properties = black and 5px
+3 - Applicaiton gets re-rendered whenever state is changed
 
-1 - 'data like this' is a string
-
-2 - Some operator types are: 1. Comparison 2. Assignment 3. Arithmetic 4. Unary
-
-3 - A function could be used to auto-generate a new quiz for each attempt a student takes
-
-1 - An if statements checks a condition and if it evaluates to true then it executes the code block
-
-2 - An else if specifies a second condition to check for if the first condition returned false
-
-3 - Some comparions operators are: 1. < 2. > 3. >=
-
-4 - && requires both conditions to be true while || requires only one
+4 - You could alot in state but some things I have seen are form values, score in a game, number of times a button is clicked.
 
 ## Things I want to know more about
 
-How much can CSS be manipulated via JS?
+Is it common to store most state items in the App component since everything will be internal to that, or is it supposed to be the lowest possible child?
 
-Why use the important modifier in CSS instead of inline styling?
-
-Is advanced HTML formatting very important if we will be using CSS for styling?
+Is such a behind-the-scenes look at React crucial for development, most of this seems like gee-whiz information and not something I will think about very often.
